@@ -1,46 +1,72 @@
-# Coffee Shop Sales Data Analysis Project
+# ☕ Coffee Sales Dashboard
 
-## Project Overview
+This project is a **Power BI dashboard** that provides insights into coffee sales performance using clean and interactive visualizations. It enables stakeholders to monitor sales trends, evaluate product performance, and support data-driven decision-making — without using pie charts, donut charts, or map-based visuals.
 
-Welcome to the Coffee Shop Sales Data Analysis project repository! This project showcases an in-depth data analysis of coffee shop sales using advanced Excel techniques. The analysis provides insights into customer information, product details, and valuable business metrics.
+---
 
-## Key Objectives
+## 📌 Project Overview
 
-**1. Customer Data Compilation**
+The Coffee Sales Dashboard was developed to analyze and present key sales metrics from a coffee retail dataset. The dashboard features a user-friendly interface with dynamic visuals and filters for exploring various aspects of sales data such as time trends, product categories, and outlet performance.
 
-We used advanced Excel functions to seamlessly compile essential customer details:
+---
 
-- Names: Extracted customer names using innovative methods.
-- Emails: Derived customer email addresses using Excel's capabilities.
-- Countries: Extracted customer countries through strategic Excel techniques.
+## 🎯 Key Objectives
 
-**2. Product Data Extraction**
+- Track total revenue, units sold, and profit.
+- Identify high-performing and underperforming coffee products.
+- Analyze time-based sales trends (monthly, quarterly).
+- Compare performance across branches or regions (non-map based).
+- Enable interactive exploration via filters and slicers.
 
-Our analysis involved extracting crucial product details:
+---
 
-- Coffee Type: Extracted coffee types using advanced Excel techniques.
-- Roast Type: Derived roast types for each product.
-- Size: Extracted product sizes using Excel's advanced functionalities.
-- Unit Price: Obtained unit prices leveraging Excel's capabilities.
+## 📊 Dashboard Features
 
-## Enhanced Data Visualization
+- **KPI Cards** for total sales, profit, and quantity sold.
+- **Bar Charts** to show sales per product, region, or category.
+- **Line Charts** to visualize sales trends over time.
+- **Tables or Matrix Views** for detailed, sortable breakdowns.
+- **Interactive Filters/Slicers** for date, region, and product-level analysis.
 
-To enhance our analysis, we introduced new columns:
+> Note: The dashboard intentionally excludes pie charts, donut charts, and map visualizations to ensure readability and performance.
 
-- Coffee Full Names: Created a new column mapping abbreviated coffee names to full names.
-- Roast Type Full Names: Added a column mapping roast type abbreviations to descriptive names.
+---
 
-## Business Insights
+## 🛠️ Tools & Technologies
 
-Our analysis yielded valuable business insights:
+- **Power BI Desktop**
+- **Excel / CSV files** (as data sources)
+- **DAX (Data Analysis Expressions)** for measures and calculations
 
-- Total Sales Over Time: Visualized the trend of total sales over a defined period.
-- Sales by Country: Explored the distribution of sales across different countries.
-- Top 5 Customers: Identified the top five customers based on their purchasing behavior.
+---
 
-## Project Conclusion
+## 📁 Files in Repository
 
-Thank you for exploring our Coffee Shop Sales Data Analysis project. This repository demonstrates our adeptness in utilizing Excel for insightful data analysis. We invite you to delve into our findings and techniques, which can serve as a valuable resource for similar projects.
+- `Coffee sales dashboard.pbix` – Power BI dashboard file
+- `README.md` – Project documentation
 
-Feel free to reach out if you have any questions or feedback. Enjoy your exploration of the project!
+---
+
+## 🧠 Insights Delivered
+
+- Top-performing coffee products and sales periods
+- Underperforming SKUs or regions that need attention
+- Time-based trends to support promotional planning
+- Actionable metrics for improving operational efficiency
+
+---
+
+## 📈 Future Enhancements
+
+- Add predictive analytics using time series forecasting
+- Integrate with real-time sales databases
+- Deploy as a published report with scheduled refresh
+
+---
+
+## 📬 Contact
+
+For any queries or collaboration ideas, feel free to reach out!
+
+---
 
